@@ -1,0 +1,319 @@
+Overview:
+General:
+    Name
+    Level
+    Temporary Hitpoints
+    Death Saves
+
+Derived
+    Armor Class
+    Inititave
+    Speed
+    Hitpoints
+    Temporary Hitpoints
+
+
+Race:
+    Player's Handbook:
+        Dragonborn
+        Dwarf(Hill)
+        Dwarf(Mountain)
+        Elf(Drow)
+        Elf(High)
+        Elf(Wood)
+        Gnome(Forest)
+        Gnome(Rock)
+        Half-Elf
+        Half-Orc
+        Halfling(Lightfoot)
+        Halfling(Stout)
+        Human
+        Human(Variant)
+        Tiefling (Asmodeous)
+
+    Dungeon Master's Guide:
+        Aasimar - Different than the version in VOLO
+        Elf(Eladrin) - Different than the version in MTF
+
+    Volo's Guide to Monsters:
+        Aasimar(Fallen)
+        Aasimar(Protector)
+        Aasimar(Scourge)
+        Bugbear
+        Firbolg
+        Goblin
+        Goliath
+        Hobgoblin
+        Kenku
+        Kobold
+        Lizardfolk
+        Orc
+        Tabaxi
+        Triton
+        Yuan-Ti Pureblood
+
+    Mordenkainen's Tome of Foes:
+        Dwarf(Duergar)
+        Elf(Eladrin)
+        Elf(Sea)
+        Elf(Shadar-kai)
+        Gith(Githyanki)
+        Gith(Githzerai)
+        Gnome(Deep)
+        Tiefling(Baalzebul)
+        Tiefling(Dispater)
+        Tiefling(Fierna)
+        Tiefling(Glasya)
+        Tiefling(Levistus)
+        Tiefling(Mammon)
+        Tiefling(Mephistopheles)
+        Tiefling(Zariel)
+
+    Elemental Evil Player's Companion:
+        Aarakocra
+        Genasi(Air)
+        Genasi(Earth)
+        Genasi(Fire)
+        Genasi(Water)
+
+    Sword Coast Adventurer's Guide:
+        Half-Elf(Aquatic)
+        Half-Elf(Drow)
+        Half-Elf(High)
+        Half-Elf(Wood)
+        Halfling(Ghostwise)
+        Tiefling(Variant)
+
+    Guildmasters' Guide to Ravnica:
+        Centaur
+        Loxodon
+        Minotaur
+        Simic Hybrid
+        Vedalken
+
+    Acquisitions Incorporated:
+        Verdan
+
+    Eberron: Rising From The Last War:
+        Changeling
+        Dwarf(Mark of Warding)
+        Elf(Mark of Shadow)
+        Gnome(Mark of Scribing)
+        Half-Elf(Mark of Detection)
+        Half-Elf(Mark of Storm)
+        Half-Orc(Mark of Finding)
+        Halfling(Mark of Healing)
+        Halfling(Mark of Hospitality)
+        Human(Mark of Finding)
+        Human(Mark of Handling)
+        Human(Mark of Making)
+        Human(Mark of Passage)
+        Human(Mark of Sentinel)
+        Kalashtar
+        Orc - Different than VOLO
+        Shifter(Beasthide)
+        Shifter(Longtooth)
+        Shifter(Swiftstride)
+        Shifter(Wildhunt)
+        Warforged
+
+    Explorer's Guide to Wildemount:
+        Dragonborn(Draconblood)
+        Dragonborn(Ravenite)
+        Elf(Pallid)
+        Halfling(Lotusden)
+
+    Mythic Odysseys of Theros:
+        Leonin
+        Satyr
+        Triton - Different than VOLO
+
+    PDFs:
+        Goblin(Dankwood) - Adventure with Muk
+        Locathah - Locathah Rising
+        Grung - One Grung Above
+        Tortle - The Tortle Package
+        Elf(Aereni) - Wayfinder's Guide to Eberron
+        Elf(Valenar) - Wayfinder's Guide to Eberron
+
+Classes:
+    Artificer
+        Alchemist (ERFTLW; TCOE)
+        Armorer (TCOE)
+        Artillerist (ERFTLW; TCOE)
+        Battle Smith (ERFTLW; TCOE)
+
+    Barbarian
+        Path of the Ancestral Guardian (XGTE)
+        Path of the Battlerager (SCAG)
+        Path of the Beast (TCOE)
+        Path of the Berserker (BR/SRD; PHB)
+        Path of the Storm Herald (XGTE)
+        Path of the Totem Warrior (PHB)
+        Path of the Zealot (XGTE)
+        Path of Wild Magic (TCOE)
+
+    Bard
+        College of Creation (TCOE)
+        College of Eloquence (MOOT; TCOE)
+        College of Glamour (XGTE)
+        College of Lore (BR/SRD; PHB)
+        College of Spirits (VRGTR)
+        College of Swords (XGTE)
+        College of Valor (PHB)
+        College of Whispers (XGTE)
+
+    Cleric
+        Arcana Domain (SCAG)
+        Death Domain (DMG)
+        Forge Domain (XGTE)
+        Grave Domain (XGTE)
+        Knowledge Domain (PHB)
+        Life Domain (BR/SRD; PHB)
+        Light Domain (PHB)
+        Nature Domain (PHB)
+        Order Domain (GGTR; TCOE)
+        Peace Domain (TCOE)
+        Tempest Domain (PHB)
+        Trickery Domain (PHB)
+        Twilight Domain (TCOE)
+        War Domain (PHB)
+
+    Druid
+        Circle of Dreams (XGTE)
+        Circle of Spores (GGTR; TCOE)
+        Circle of Stars (TCOE)
+        Circle of the Land (BR/SRD; PHB)
+        Circle of the Moon (PHB)
+        Circle of the Shepherd (XGTE)
+        Circle of Wildfire (TCOE)
+
+    Fighter
+        Arcane Archer (XGTE)
+        Battle Master (PHB)
+        Cavalier (XGTE)
+        Champion (BR/SRD; PHB)
+        Echo Knight (EGTW)
+        Eldritch Knight (PHB)
+        Psi Warrior (TCOE)
+        Purple Dragon Knight (SCAG)
+        Rune Knight (TCOE)
+        Samurai (XGTE)
+
+    Monk
+        Way of Mercy (TCOE)
+        Way of Shadow (PHB)
+        Way of the Astral Self (TCOE)
+        Way of the Drunken Master (XGTE)
+        Way of the Four Elements (PHB)
+        Way of the Kensei (XGTE)
+        Way of the Long Death (SCAG)
+        Way of the Open Hand (BR/SRD; PHB)
+        Way of the Sun Soul (SCAG; XGTE)
+
+    Paladin
+        Oath of Conquest (XGTE)
+        Oath of Devotion (BR/SRD; PHB)
+        Oath of Glory (MOOT; TCOE)
+        Oath of Redemption (XGTE)
+        Oath of the Ancients (PHB)
+        Oath of the Crown (SCAG)
+        Oath of the Watchers (TCOE)
+        Oath of Vengeance (PHB)
+        Oathbreaker (DMG)
+
+    Ranger
+        Beast Master (PHB)
+        Fey Wanderer (TCOE)
+        Gloom Stalker (XGTE)
+        Horizon Walker (XGTE)
+        Hunter (BR/SRD; PHB)
+        Monster Slayer (XGTE)
+        Swarmkeeper (TCOE)
+
+    Rogue
+        Arcane Trickster (PHB)
+        Assassin (PHB)
+        Inquisitive (XGTE)
+        Mastermind (SCAG; XGTE)
+        Phantom (TCOE)
+        Scout (XGTE)
+        Soulknife (TCOE)
+        Swashbuckler (SCAG; XGTE)
+        Thief (BR/SRD; PHB)
+
+    Sorcerer
+        Aberrant Mind (TCOE)
+        Clockwork Soul (TCOE)
+        Divine Soul (XGTE)
+        Draconic Bloodline (BR/SRD; PHB)
+        Shadow Magic (XGTE)
+        Storm Sorcery (SCAG; XGTE)
+        Wild Magic (PHB)
+
+    Warlock
+        The Archfey (PHB)
+        The Celestial (XGTE)
+        The Fathomless (TCOE)
+        The Fiend (BR/SRD; PHB)
+        The Genie (TCOE)
+        The Great Old One (PHB)
+        The Hexblade (XGTE)
+        The Undead (VRGTR)
+        The Undying (SCAG)
+
+    Wizard
+        Bladesinging (SCAG; TCOE)
+        Chronurgy Magic (EGTW)
+        Graviturgy Magic (EGTW)
+        Order of Scribes (TCOE)
+        School of Abjuration (PHB)
+        School of Conjuration (PHB)
+        School of Divination (PHB)
+        School of Enchantment (PHB)
+        School of Evocation (BR/SRD; PHB)
+        School of Illusion (PHB)
+        School of Necromancy (PHB)
+        School of Transmutation (PHB)
+        War Magic (XGTE)
+
+Abilities:
+    Strength
+    Dexterity
+    Constitution
+    Intelligence
+    Wisdom
+    Charisma
+
+Description:
+    Proficiencies
+    Background
+    Details
+        Allignment
+        Faith
+        Lifestyle
+    Physical Characteristics
+        Hair
+        SoulknifeEyes
+        Height
+        Weight
+        Age
+        Gender
+    Personal Characteristics
+        Personality
+        Ideals
+        Bonds
+        Flaws
+    Notes
+        Organizations
+        ArtilleristEnemies
+        Backstory
+        Other
+    
+Equipment
+    Weapons
+    Armor
+    Other Items
+    Currency
+
+Spells

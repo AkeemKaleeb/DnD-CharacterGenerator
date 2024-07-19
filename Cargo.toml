@@ -1,0 +1,13 @@
+[package]
+name = "character_generator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+egui = { version = "0.15", default-features = false, features = ["default"] }
+eframe = { version = "0.15", default-features = false, features = ["default"] }
+libmath = "*"
+
+[profile.dev]
+incremental = true
+opt-level = 1
